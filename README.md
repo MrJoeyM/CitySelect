@@ -1,1 +1,1 @@
-# CitySelect
+基于JavaScript和CSS实现的城市选择控件。
